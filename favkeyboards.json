@@ -1,0 +1,43 @@
+
+var favkeybaords =[
+	{
+		"name": "HHKB",
+		"version":"profesional 2",
+		"keyset":"white blank + baby purple" 
+	},
+	{
+		"name": "POKR",
+		"version":"POKR 2 RGB backlit",
+		"keyset":"PBT double shot clears" 
+	},
+	{
+		"name": "Magicforce",
+		"version":"MINI",
+		"keyset":"std RGB backlit" 
+	},
+	{
+		"name": "Filco",
+		"version":"Majestic Touch 87",
+		"keyset":"orange + black" 
+	},
+	{
+		"name": "Razer",
+		"version":"Tenkeyless",
+		"keyset":"Black SA PBT doubleshot clears"
+
+	},
+	{
+		"name": "ducky One RGB LED",
+		"version":"Tenkeyless",
+		"keyset":"STD "
+		
+	},
+	{
+		"name": "ANNE pro",
+		"version":"Wood base ",
+		"keyset":"Floating keyset"
+
+	}
+]
+
+favkeybaords[1].keyset
